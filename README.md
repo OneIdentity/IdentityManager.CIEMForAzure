@@ -2,14 +2,14 @@
 # IdentityManager.CIEMForAzure
 
 The One Identity Cloud Infrastructure and Entitlement Management solution accelerator, enables you to synchronize the following Azure objects from an Azure Tenant to One Identity Manager
-•	Management Groups
-•	Subscriptions
-•	Resource Groups
-•	Resources
-•	Resource Types
-•	Locations
-•	Roles
-•	Role Assignments
+- Management Groups
+- Subscriptions
+- Resource Groups
+- Resources
+- Resource Types
+- Locations
+- Roles
+- Role Assignments
 
 Once the objects have been synchronized in to One Identity Manager, you would be able to view the Azure Object role assignments made for the Azure AD user / Azure Service Principal / Azure AD Group.
 
