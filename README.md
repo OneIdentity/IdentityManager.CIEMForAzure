@@ -16,3 +16,5 @@ Once the objects have been synchronized in to One Identity Manager, you would be
 The One Identity Manager SCIM connector is used to access the Azure objects. The SCIM connector should be installed on a synchronization server to synchronize the Azure objects. The SCIM connector connects to Starling Azure Infrastructure connector and retrieves the Azure objects. The Starling Azure Infrastructure connector uses the Azure Resource Management, Azure Management Groups and Azure Authorization REST API services to retrieve the needed Azure objects
 
 Please follow the instructions of "readme.docx" for using this solution accelerator.
+
+Also, learn more about [CIEM](https://www.oneidentity.com/learn/what-is-ciem.aspx) and [SCIM](https://www.oneidentity.com/what-is-scim/) on our Learning Hub.
